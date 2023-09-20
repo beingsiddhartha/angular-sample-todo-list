@@ -10,24 +10,24 @@ export class TodoService {
   todoList: Todo[] = [
     {
       id: 1,
-      title: 'Todo One',
+      title: 'Interview R1',
       isCompleted: false,
       isFavorite: false,
-      date: new Date('4-15-2020')
+      date: new Date('9-9-2023')
     },
     {
       id: 2,
-      title: 'Todo Two',
+      title: 'Interview R2',
       isCompleted: false,
       isFavorite: false,
-      date: new Date('5-15-2020')
+      date: new Date('9-18-2023')
     },
     {
       id: 3,
-      title: 'Todo Three',
+      title: 'Interview L',
       isCompleted: false,
       isFavorite: false,
-      date: new Date('6-15-2020')
+      date: new Date('9-20-2023')
     }
   ];
 
